@@ -1,0 +1,5 @@
+C:\Users\Windows\Documents\SharpDevelop Projects\Agregacion\Agregacion\obj\Debug\Agregacion.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Documents\SharpDevelop Projects\Agregacion\Agregacion\bin\Debug\Agregacion.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Agregacion\Agregacion\bin\Debug\Agregacion.pdb
+C:\Users\Windows\Documents\SharpDevelop Projects\Agregacion\Agregacion\obj\Debug\Agregacion.exe
+C:\Users\Windows\Documents\SharpDevelop Projects\Agregacion\Agregacion\obj\Debug\Agregacion.pdb
